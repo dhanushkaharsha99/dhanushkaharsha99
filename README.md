@@ -5,8 +5,8 @@ Software Engineer(UG) | Freelancer | Entrepreneur
 -------------------------------------------------
 
 * 🌍  I'm based in kandy
-* ✉️  You can contact me at [samrtdhanu36@gmail.com](mailto:samrtdhanu36@gmail.com)
-* 🚀  I'm currently working on [KidsHive Web](http://github.com/https-github-com-Sandeepa200/KidsHive)
+* ✉️  You can contact me at [egddharmasiri@gmail.com](mailto:egddharmasiri@gmail.com)
+* 🚀  I'm currently working on [](http://github.com/)
 * 🧠  I'm learning PHP,JS and Flutter
 
 ### Skills
